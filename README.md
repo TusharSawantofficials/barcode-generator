@@ -1,2 +1,0 @@
-# barcode-generator
-generate barcode
